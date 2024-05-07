@@ -164,3 +164,19 @@ cython_debug/
 
 
 
+experiment_small_data/test/X_test.dat
+experiment_small_data/test/y_test.dat
+experiment_small_data/train/X_train.dat
+experiment_small_data/train/X_train2.dat
+experiment_small_data/train/y_train.dat
+experiment_small_data/train/y_train2.dat
+experiment_small_data/val/X_val.dat
+experiment_small_data/val/y_val.dat
+experiment_small_data/test/test.dat
+experiment_small_data/train/train.dat
+experiment_small_data/train/train2.dat
+experiment_small_data/val/validate.dat
+experiment_tiny_data/test/test.dat
+experiment_tiny_data/train/train.dat
+experiment_tiny_data/train/train2.dat
+experiment_tiny_data/val/validate.dat
